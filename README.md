@@ -38,7 +38,7 @@ A deep learning project for image classification using a **Convolutional Neural 
 ---
 
 ## 📫 Contact
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/piotr-wilkowski-a84452312)  
+- LinkedIn: www.linkedin.com/in/piotr-wilkowski-a84452312
 - Email: wilkowskipiotr02@gmail.com 
 
 ---

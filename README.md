@@ -7,21 +7,29 @@ Here you can find a collection of my projects in Python, mainly focused on **mac
 
 ## 🚀 Projects
 
-### 🌸 [Iris Classifier (KNN)](https://github.com/yourusername/Iris-Classifier)
+### 🚚 [Delivery Workflow Optimization](https://github.com/PiotrWilkowski/Delivery-Workflow-Optimization)
+A business automation project built with **Microsoft Access**, improving the workflow of delivery providers.  
+- Tools: VBA, Excel, SQL, MS Access  
+- Goal: Automate daily tasks, optimize supplier operations, and improve efficiency  
+- Example features: database queries, automated reporting, Excel integration  
+
+---
+
+### 🌸 [Iris Classifier (KNN)](https://github.com/PiotrWilkowski/Iris-Classifier)
 A machine learning project that classifies iris flowers using the **K-Nearest Neighbors algorithm**.  
 - Tools: Python, Pandas, Seaborn, Scikit-learn  
 - Accuracy: ~95% on the test set  
 
 ---
 
-### 📈 [Student Marks Prediction (Linear Regression from Scratch)](https://github.com/yourusername/Student-Marks-Regression)
+### 📈 [Student Marks Prediction (Linear Regression from Scratch)](https://github.com/PiotrWilkowski/Student-Marks-Regression)
 An implementation of **linear regression with gradient descent** written from scratch (without ML libraries).  
 - Tools: Python, Pandas, Matplotlib  
 - Goal: Predict student marks based on study time  
 
 ---
 
-### 🤖 [CIFAR-10 Image Classifier](https://github.com/yourusername/CIFAR10-Image-Classifier)
+### 🤖 [CIFAR-10 Image Classifier](https://github.com/PiotrWilkowski/CIFAR10-Image-Classifier)
 A deep learning project for image classification using a **Convolutional Neural Network (CNN)** trained on CIFAR-10.  
 - Tools: Python, TensorFlow/Keras, OpenCV, Matplotlib  
 - Model: Trained CNN (`image_classifier.keras`)  
